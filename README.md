@@ -9,4 +9,5 @@ As logged in members (Masters), users can do all of the things a guest can do. I
 As admin (Alchemists), users can do all of the things members can do. In addition they have access to the Alchemist's Cabinet where they can view all Masters, view all orders, view and edit all products, and add products.
 
 Video demonstration of a Novice, Master, and Alchemist experience: https://youtu.be/mkTwPzzaDo8
+
 Made by Khalilah, Sara and Niko.
